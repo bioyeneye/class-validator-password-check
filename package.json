@@ -1,6 +1,6 @@
 {
   "name": "class-validator-password-check",
-  "version": "1.0.1",
+  "version": "1.0.7",
   "description": "Helps with password validation with validation requirements like including uppercase letters, lowercase letter, number and special characters",
   "main": "lib/index.js",
   "types": "lib",
