@@ -42,6 +42,11 @@ export class UserRegisterDto {
 }
 ```
 
+### Todos
+
+ - Add minimium length
+ - Make special character dynamic
+
 License
 ----
 
