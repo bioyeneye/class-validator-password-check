@@ -125,7 +125,7 @@ export class PasswordValidation implements ValidatorConstraintInterface {
     const relatedValue = args.constraints[0] as PasswordValidationRequirement;
 
     if (relatedValue.mustContainUpperLetter) {
-      if (!StringUtilities.containsUpperCase(value)) return "Password must conatin uppercase";
+      if (!StringUtilities.containsUpperCase(value)) return "Password must contain uppercase";
     }
 
     if (relatedValue.mustContainLowerLetter) {
