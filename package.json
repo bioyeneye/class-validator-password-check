@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/bioyeneye/class-validator-password-check#readme",
   "dependencies": {
-    "class-validator": "^0.12.1"
+    "class-validator": "^0.14.0"
   },
   "devDependencies": {
     "typescript": "^3.8.3"
